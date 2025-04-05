@@ -2,6 +2,7 @@
 
 ## Overview
 This project provides a **LALR Parsing Table Generator** with a **Streamlit-based frontend**. It allows users to upload transition and CLR state files to generate and visualize an LALR parsing table.
+Deployed at- https://lalrparser.streamlit.app/
 
 ## Features
 - Upload **Transitions** and **CLR States** text files.
