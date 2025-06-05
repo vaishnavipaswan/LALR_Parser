@@ -1,7 +1,7 @@
 # LALR Parsing Table Generator
 
 ## Overview
-This project provides a **LALR Parsing Table Generator** with a **Streamlit-based frontend**. It allows users to upload transition and CLR state files to generate and visualize an LALR parsing table.
+This project provides a **LALR Parsing Table Generator** with a **Streamlit-based frontend**. It allows users to upload transition and CLR state files to generate and visualize an LALR parsing table. This project was implemented as part of the course requirements for Compiler Design in our academic curriculum.
 Deployed at- https://lalrparser.streamlit.app/
 
 ## Features
